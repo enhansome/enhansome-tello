@@ -1,0 +1,378 @@
+{
+  "items": [
+    {
+      "description": "Alternatives to official Android Tello apps",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Drone-keyboard",
+          "description": "controll & videostream,",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2021-11-03T07:30:21Z",
+            "owner": "dnomak",
+            "repo": "drone-keyboard",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telloterm",
+          "description": "controll & videostram & gamepad (fka. tello-desktop),",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-11T16:15:27Z",
+            "owner": "SMerrony",
+            "repo": "telloterm",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drone-control",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-02-15T20:11:53Z",
+            "owner": "socketbind",
+            "repo": "drone-control",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tellodesk…",
+          "description": "controll & videostream & gamepad & map,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-03-13T08:16:24Z",
+            "owner": "SMerrony",
+            "repo": "tellodesk",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Cockpits"
+    },
+    {
+      "description": "Alternatives to official Android Tello Edu app or Droneblocks to design batch or interactive automation for the drone.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Node-Red-Tello-Control",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-05T14:04:59Z",
+            "owner": "johnwalicki",
+            "repo": "Node-RED-Tello-Control",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scratch3-tello",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-11T09:50:49Z",
+            "owner": "kebhr",
+            "repo": "scratch3-tello",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-Red-DroneViewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-16T03:14:05Z",
+            "owner": "johnwalicki",
+            "repo": "Node-RED-DroneViewer",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Scripting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RyzeTelloFirmware",
+          "description": "hardware details and firmware binaries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Standard ML",
+            "last_commit": "2018-04-11T18:49:15Z",
+            "owner": "MrJabu",
+            "repo": "RyzeTelloFirmware",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raspberrypi-controlled-tello",
+          "description": "Control via RPI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-21T15:44:15Z",
+            "owner": "erviveksoni",
+            "repo": "raspberrypi-controlled-tello",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "telloArduino",
+          "description": "Control via ESP32",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-12-08T13:06:23Z",
+            "owner": "akshayvernekar",
+            "repo": "telloArduino",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hack_GamesirT1d",
+          "description": "Read original drone gamepad controller",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-03T12:34:21Z",
+            "owner": "Diallomm",
+            "repo": "hack_GamesirT1d",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "m5stickcUartUdpBridge",
+          "description": "Control via micro:bit with radio-UART and",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-05T09:27:20Z",
+            "owner": "EiichiroIto",
+            "repo": "m5stickcUartUdpBridge",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": "Applications which show integration and mashups using the Tello.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tello-openpose",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-13T09:50:41Z",
+            "owner": "geaxgx",
+            "repo": "tello-openpose",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello ROS ORBSLAM",
+          "description": "Global positioning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-05-17T14:29:01Z",
+            "owner": "tau-adl",
+            "repo": "Tello_ROS_ORBSLAM",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hallo",
+          "description": "Hand gesture controlled",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-09T16:32:11Z",
+            "owner": "GalBrandwine",
+            "repo": "HalloPy",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DJITelloOpticalControl",
+          "description": "Autonomous flight via markers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-31T11:56:16Z",
+            "owner": "TamasSzepessy",
+            "repo": "DJITelloOpticalControl",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yello",
+          "description": "CV and ML using offboard Yolo v3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-06T09:38:34Z",
+            "owner": "adriacabeza",
+            "repo": "Yello",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pose Recognition Tello",
+          "description": "Control via human body poses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-15T19:40:31Z",
+            "owner": "houdinisparks",
+            "repo": "pose_recognition_tello",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello AI features",
+          "description": "Face and obstacles detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-12T21:27:35Z",
+            "owner": "carlo98",
+            "repo": "tello-ai-features",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alexa controlled drone",
+          "description": "Control via Alexa using a RPI gateway",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-18T07:07:14Z",
+            "owner": "erviveksoni",
+            "repo": "alexa-controlled-drone",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eye in the sky",
+          "description": "Face detection and follow-me",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-03T12:14:53Z",
+            "owner": "sushansapaliga",
+            "repo": "Eye-In-The-Sky",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello Laser Shot",
+          "description": "Find targets and point them with a laser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-28T16:51:49Z",
+            "owner": "Keleas",
+            "repo": "Tello_Laser_Shot",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autonomous Indoor Control and Mapping Sistem",
+          "description": "This project provides an system for autonomous navigation and mapping, leveraging various technologies like ARUCO markers, Webots simulation, and deep learning object detection through Yolov5 + API Tello Webots - To Simulation like TelloPy library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-22T09:40:03Z",
+            "owner": "juanmill4",
+            "repo": "Indoor-Autonomous-Tello",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoviDrone",
+          "description": "Cleaning Bot with UV lamps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-05T06:27:05Z",
+            "owner": "altaga",
+            "repo": "CoviDrone",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello-drone",
+          "description": "Barcode scanner",
+          "children": []
+        }
+      ],
+      "title": "Examples"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:30.417Z",
+    "original_repository": "Matthias84/awesome-tello",
+    "original_repository_sha": "786c3e9494c999269dc3c5d1f4f10611a8dbc7c3",
+    "enhanced_repository": "enhansome/enhansome-tello",
+    "enhanced_repository_description": null,
+    "title": "awesome-tello with stars"
+  }
+}
