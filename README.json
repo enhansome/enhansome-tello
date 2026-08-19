@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 164846048,
             "language": "Vue",
             "last_commit": "2021-11-03T07:30:21Z",
             "owner": "dnomak",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137120245,
             "language": "Go",
             "last_commit": "2023-04-11T16:15:27Z",
             "owner": "SMerrony",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133164058,
             "language": "Go",
             "last_commit": "2020-02-15T20:11:53Z",
             "owner": "socketbind",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148770592,
             "language": "Go",
             "last_commit": "2019-03-13T08:16:24Z",
             "owner": "SMerrony",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145054576,
             "language": null,
             "last_commit": "2021-02-05T14:04:59Z",
             "owner": "johnwalicki",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229977049,
             "language": "JavaScript",
             "last_commit": "2026-03-11T09:50:49Z",
             "owner": "kebhr",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205589752,
             "language": "JavaScript",
             "last_commit": "2019-12-16T03:14:05Z",
             "owner": "johnwalicki",
@@ -111,7 +118,480 @@
       "title": "Scripting"
     },
     {
-      "description": "",
+      "description": "Tello features official interfaces to develop applications for control & video streaming:\nUndocumented details on the wifi protocoll are listed at Tello Pilots Wiki - Protocol.\nThere are libraries which implement featuresets in different languages and bindings to other frameworks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DJITelloPy",
+          "description": "swarm, mission pads, CV2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157786509,
+            "language": "Python",
+            "last_commit": "2025-01-27T12:10:20Z",
+            "owner": "damiafuentes",
+            "repo": "DJITelloPy",
+            "stars": 1479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello-Python",
+          "description": "Official SDK,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139931861,
+            "language": "Python",
+            "last_commit": "2023-12-29T22:39:51Z",
+            "owner": "dji-sdk",
+            "repo": "Tello-Python",
+            "stars": 1449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelloPy",
+          "description": ", unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fork",
+              "description": "Logitech F310 gamepad support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193839670,
+                "language": "Python",
+                "last_commit": "2019-06-30T06:37:24Z",
+                "owner": "shortstheory",
+                "repo": "TelloPy",
+                "stars": 0
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 131959095,
+            "language": "Python",
+            "last_commit": "2024-07-23T14:03:31Z",
+            "owner": "hanyazou",
+            "repo": "TelloPy",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello_ROS",
+          "description": "(Robot Operrating system)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 159985850,
+            "language": "C++",
+            "last_commit": "2025-08-23T18:05:53Z",
+            "owner": "clydemcqueen",
+            "repo": "tello_ros",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelloLib",
+          "description": ", Apps for Android and CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130660029,
+            "language": "C#",
+            "last_commit": "2019-01-07T19:41:36Z",
+            "owner": "Kragrathea",
+            "repo": "TelloLib",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello-nodejs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132386558,
+            "language": "JavaScript",
+            "last_commit": "2019-06-19T04:12:46Z",
+            "owner": "jsolderitsch",
+            "repo": "tello-nodejs",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/SMerrony/tello",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134519136,
+            "language": "Go",
+            "last_commit": "2021-11-14T10:43:10Z",
+            "owner": "SMerrony",
+            "repo": "tello",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyTello",
+          "description": ", unmaintained",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 165624140,
+            "language": "Python",
+            "last_commit": "2021-01-22T10:03:59Z",
+            "owner": "ezrafielding",
+            "repo": "easyTello",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flock2",
+          "description": "(Robot Operrating system) for swarms",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 152148884,
+            "language": "C++",
+            "last_commit": "2021-11-15T15:47:46Z",
+            "owner": "clydemcqueen",
+            "repo": "flock2",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelloJS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 159499893,
+            "language": "JavaScript",
+            "last_commit": "2024-11-18T22:41:47Z",
+            "owner": "archivealvarolorentedev",
+            "repo": "tellojs",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelloAPI-SDK-2.0",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168779214,
+            "language": "C#",
+            "last_commit": "2026-07-14T21:27:53Z",
+            "owner": "marklauter",
+            "repo": "TelloAPI-SDK-2.0",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tello",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257678138,
+                "language": "C++",
+                "last_commit": "2020-10-02T09:53:46Z",
+                "owner": "LucaRitz",
+                "repo": "tello",
+                "stars": 2
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 241049721,
+            "language": "C++",
+            "last_commit": "2021-02-19T04:35:11Z",
+            "owner": "vss2sn",
+            "repo": "tello",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello Ruby Gem",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140354130,
+            "language": "Ruby",
+            "last_commit": "2021-12-02T21:33:28Z",
+            "owner": "blacktm",
+            "repo": "tello",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dji-ryze-tello",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141429906,
+            "language": null,
+            "last_commit": "2019-09-14T14:19:30Z",
+            "owner": "m6c7l",
+            "repo": "dji-ryze-tello",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DJI-tello",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158616203,
+            "language": "Java",
+            "last_commit": "2020-11-16T21:52:33Z",
+            "owner": "grofattila",
+            "repo": "dji-tello",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelloSwift",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222345101,
+            "language": "Swift",
+            "last_commit": "2026-06-23T06:32:16Z",
+            "owner": "liuxuan30",
+            "repo": "TelloSwift",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelloPython",
+          "description": "flip, reverse engenierd",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229307259,
+            "language": "Python",
+            "last_commit": "2021-03-14T11:30:26Z",
+            "owner": "jaqxues",
+            "repo": "TelloPython",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KTello",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141948649,
+            "language": "Kotlin",
+            "last_commit": "2020-09-19T22:21:36Z",
+            "owner": "ivanocj",
+            "repo": "ktello",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tello_edu.py",
+          "description": "swarms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226037258,
+            "language": "Python",
+            "last_commit": "2019-12-23T06:38:19Z",
+            "owner": "targit86",
+            "repo": "tello_edu.py",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello",
+          "description": "(Gobot framework)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211781366,
+            "language": "Go",
+            "last_commit": "2019-10-01T14:18:45Z",
+            "owner": "muety",
+            "repo": "tello",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelloSwift",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146211180,
+            "language": "Swift",
+            "last_commit": "2018-08-26T19:51:42Z",
+            "owner": "tranchis",
+            "repo": "TelloSwift",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello4J",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229838492,
+            "language": "Java",
+            "last_commit": "2020-01-24T10:10:16Z",
+            "owner": "FriwiDev",
+            "repo": "Tello4J",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelloCommander",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231769601,
+            "language": "C#",
+            "last_commit": "2025-12-07T09:06:05Z",
+            "owner": "davewalker5",
+            "repo": "TelloCommander",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tello-Processing",
+          "description": ", SDK 1.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165412074,
+            "language": "Processing",
+            "last_commit": "2020-01-03T16:08:41Z",
+            "owner": "f41ardu",
+            "repo": "TelloProcessing",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelloKt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178974486,
+            "language": "Kotlin",
+            "last_commit": "2020-11-16T21:52:03Z",
+            "owner": "JakeJMattson",
+            "repo": "TelloKt",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DJI-Tello-Dart-Package",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 312929669,
+            "language": "Dart",
+            "last_commit": "2024-06-09T20:21:45Z",
+            "owner": "mateustoin",
+            "repo": "DJI-Tello-Dart-Package",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DJITello-Cpp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303597124,
+            "language": "C++",
+            "last_commit": "2021-02-09T01:03:03Z",
+            "owner": "shalinirago",
+            "repo": "DJITello-Cpp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelloTS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179553021,
+            "language": "TypeScript",
+            "last_commit": "2022-12-30T17:25:57Z",
+            "owner": "siokas",
+            "repo": "tellots",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RyzeTelloSDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 336134270,
+            "language": "C#",
+            "last_commit": "2021-02-05T16:55:37Z",
+            "owner": "Eloncase",
+            "repo": "RyzeTelloSDK",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "SDK Wrappers"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -120,6 +600,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129145004,
             "language": "Standard ML",
             "last_commit": "2018-04-11T18:49:15Z",
             "owner": "MrJabu",
@@ -134,6 +615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228844884,
             "language": "Python",
             "last_commit": "2019-12-21T15:44:15Z",
             "owner": "erviveksoni",
@@ -148,6 +630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178807602,
             "language": "C++",
             "last_commit": "2020-12-08T13:06:23Z",
             "owner": "akshayvernekar",
@@ -162,6 +645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320000431,
             "language": "Python",
             "last_commit": "2021-05-03T12:34:21Z",
             "owner": "Diallomm",
@@ -176,6 +660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273366492,
             "language": "C++",
             "last_commit": "2020-08-05T09:27:20Z",
             "owner": "EiichiroIto",
@@ -196,6 +681,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186800213,
             "language": "Python",
             "last_commit": "2021-12-13T09:50:41Z",
             "owner": "geaxgx",
@@ -210,6 +696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215849221,
             "language": "C++",
             "last_commit": "2022-05-17T14:29:01Z",
             "owner": "tau-adl",
@@ -224,6 +711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143593154,
             "language": "Python",
             "last_commit": "2021-11-09T16:32:11Z",
             "owner": "GalBrandwine",
@@ -238,6 +726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203336901,
             "language": "Python",
             "last_commit": "2021-07-31T11:56:16Z",
             "owner": "TamasSzepessy",
@@ -252,6 +741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192692331,
             "language": "Python",
             "last_commit": "2020-10-06T09:38:34Z",
             "owner": "adriacabeza",
@@ -266,6 +756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142994326,
             "language": "Python",
             "last_commit": "2023-02-15T19:40:31Z",
             "owner": "houdinisparks",
@@ -280,6 +771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328141428,
             "language": "Python",
             "last_commit": "2023-05-12T21:27:35Z",
             "owner": "carlo98",
@@ -294,6 +786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231706613,
             "language": "Python",
             "last_commit": "2020-01-18T07:07:14Z",
             "owner": "erviveksoni",
@@ -308,6 +801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231937149,
             "language": "Python",
             "last_commit": "2020-09-03T12:14:53Z",
             "owner": "sushansapaliga",
@@ -322,6 +816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223333417,
             "language": "Python",
             "last_commit": "2020-03-28T16:51:49Z",
             "owner": "Keleas",
@@ -336,6 +831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 853047033,
             "language": "Python",
             "last_commit": "2024-10-22T09:40:03Z",
             "owner": "juanmill4",
@@ -350,26 +846,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291180536,
             "language": "Python",
             "last_commit": "2020-09-05T06:27:05Z",
             "owner": "altaga",
             "repo": "CoviDrone",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Tello-drone",
-          "description": "Barcode scanner",
-          "children": []
         }
       ],
       "title": "Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:53:01.766Z",
+    "last_updated": "2026-08-19T12:54:47.993Z",
     "original_repository": "Matthias84/awesome-tello",
+    "original_repository_id": 340032871,
     "original_repository_sha": "786c3e9494c999269dc3c5d1f4f10611a8dbc7c3",
     "enhanced_repository": "enhansome/enhansome-tello",
     "enhanced_repository_description": null,
