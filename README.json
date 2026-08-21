@@ -132,7 +132,7 @@
             "last_commit": "2025-01-27T12:10:20Z",
             "owner": "damiafuentes",
             "repo": "DJITelloPy",
-            "stars": 1479
+            "stars": 1480
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2023-12-29T22:39:51Z",
             "owner": "dji-sdk",
             "repo": "Tello-Python",
-            "stars": 1449
+            "stars": 1450
           }
         },
         {
@@ -859,7 +859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:55:54.232Z",
+    "last_updated": "2026-08-21T16:56:25.213Z",
     "original_repository": "Matthias84/awesome-tello",
     "original_repository_id": 340032871,
     "original_repository_sha": "786c3e9494c999269dc3c5d1f4f10611a8dbc7c3",
