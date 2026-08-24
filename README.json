@@ -147,7 +147,7 @@
             "last_commit": "2023-12-29T22:39:51Z",
             "owner": "dji-sdk",
             "repo": "Tello-Python",
-            "stars": 1450
+            "stars": 1451
           }
         },
         {
@@ -859,7 +859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:46:36.642Z",
+    "last_updated": "2026-08-24T14:43:39.069Z",
     "original_repository": "Matthias84/awesome-tello",
     "original_repository_id": 340032871,
     "original_repository_sha": "786c3e9494c999269dc3c5d1f4f10611a8dbc7c3",
