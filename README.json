@@ -132,7 +132,7 @@
             "last_commit": "2025-01-27T12:10:20Z",
             "owner": "damiafuentes",
             "repo": "DJITelloPy",
-            "stars": 1480
+            "stars": 1481
           }
         },
         {
@@ -228,7 +228,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SMerrony/tello",
+          "title": "SMerrony/tello",
           "description": null,
           "children": [],
           "repo_info": {
@@ -859,7 +859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:59:45.484Z",
+    "last_updated": "2026-08-25T06:37:50.593Z",
     "original_repository": "Matthias84/awesome-tello",
     "original_repository_id": 340032871,
     "original_repository_sha": "786c3e9494c999269dc3c5d1f4f10611a8dbc7c3",
