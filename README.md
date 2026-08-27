@@ -111,8 +111,8 @@ Applications which show integration and mashups using the Tello.
 
 ## Security
 
-* [Drone hacking tool analysis - dronesploit](https://dronesec.com/blogs/articles/drone-hacking-tool-analysis-dronesploit) - Hijacking using [dronesploit-framework](https://github.com/dhondta/dronesploit) ⭐ 2,156 | 🐛 2 | 🌐 Python | 📅 2024-11-23
+* [Drone hacking tool analysis - dronesploit](https://dronesec.com/blogs/articles/drone-hacking-tool-analysis-dronesploit) - Hijacking using [dronesploit-framework](https://github.com/dhondta/dronesploit) ⭐ 2,164 | 🐛 2 | 🌐 Python | 📅 2024-11-23
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

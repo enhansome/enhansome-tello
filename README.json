@@ -859,9 +859,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:08:12.100Z",
-    "original_repository": "Matthias84/awesome-tello",
-    "original_repository_id": 340032871,
+    "last_updated": "2026-08-27T12:06:59.885Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 340032871,
+      "language": null,
+      "last_commit": "2024-10-23T16:43:21Z",
+      "owner": "Matthias84",
+      "repo": "awesome-tello",
+      "stars": 81
+    },
     "original_repository_sha": "786c3e9494c999269dc3c5d1f4f10611a8dbc7c3",
     "enhanced_repository": "enhansome/enhansome-tello",
     "enhanced_repository_description": null,
