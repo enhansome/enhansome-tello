@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Drone Keyboard for Tello",
+            "homepage": "https://dnomak.com/drone-keyboard",
             "id": 164846048,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2021-11-03T07:30:21Z",
+            "open_issues": 1,
             "owner": "dnomak",
             "repo": "drone-keyboard",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "drone",
+              "electron",
+              "nodejs",
+              "socket-io",
+              "tello",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -26,12 +38,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A functioning desktop testbed for flying the Ryze Tello drone via the Go tello package.",
+            "homepage": null,
             "id": 137120245,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-04-11T16:15:27Z",
+            "open_issues": 0,
             "owner": "SMerrony",
             "repo": "telloterm",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "drone",
+              "go",
+              "golang",
+              "ryze-tello-drone",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -42,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple application for controlling DJI/Ryze Tello drones.",
+            "homepage": null,
             "id": 133164058,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-15T20:11:53Z",
+            "open_issues": 3,
             "owner": "socketbind",
             "repo": "drone-control",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -58,12 +86,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial desktop application for flying the Tello mini drone",
+            "homepage": null,
             "id": 148770592,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-03-13T08:16:24Z",
+            "open_issues": 0,
             "owner": "SMerrony",
             "repo": "tellodesk",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "desktop-application",
+              "drone",
+              "go",
+              "golang-application",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         }
@@ -80,12 +119,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node-RED flows to control the Ryze Tello Drone",
+            "homepage": null,
             "id": 145054576,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-02-05T14:04:59Z",
+            "open_issues": 8,
             "owner": "johnwalicki",
             "repo": "Node-RED-Tello-Control",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "dji",
+              "djitello",
+              "drone",
+              "node-red",
+              "nodejs",
+              "ryze",
+              "ryze-tello-drone",
+              "tello",
+              "tellodrone"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -96,12 +150,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let's fly Tello with Scratch 3.0!",
+            "homepage": "https://scratch3-tello.app/",
             "id": 229977049,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-11T09:50:49Z",
+            "open_issues": 5,
             "owner": "kebhr",
             "repo": "scratch3-tello",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "computer-science-education",
+              "scratch",
+              "scratch-extension",
+              "scratch3",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -112,12 +177,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "  Node-RED flows to capture the video stream of the Ryze / DJI Tello Drone",
+            "homepage": null,
             "id": 205589752,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-16T03:14:05Z",
+            "open_issues": 1,
             "owner": "johnwalicki",
             "repo": "Node-RED-DroneViewer",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "dji",
+              "djitello",
+              "drone",
+              "node-red",
+              "nodejs",
+              "ryze",
+              "ryze-tello-drone",
+              "tello",
+              "tellodrone"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         }
@@ -134,12 +214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DJI Tello drone python interface using the official Tello SDK. Feel free to contribute! ",
+            "homepage": null,
             "id": 157786509,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-27T12:10:20Z",
+            "open_issues": 42,
             "owner": "damiafuentes",
             "repo": "DJITelloPy",
-            "stars": 1482
+            "stars": 1482,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -150,12 +235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of python modules that interact with the Ryze Tello drone.",
+            "homepage": null,
             "id": 139931861,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-29T22:39:51Z",
+            "open_issues": 70,
             "owner": "dji-sdk",
             "repo": "Tello-Python",
-            "stars": 1450
+            "stars": 1450,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -171,24 +261,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DJI Tello drone controller python package",
+                "homepage": null,
                 "id": 193839670,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-06-30T06:37:24Z",
+                "open_issues": 0,
                 "owner": "shortstheory",
                 "repo": "TelloPy",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:21.869Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "DJI Tello drone controller python package",
+            "homepage": null,
             "id": 131959095,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-23T14:03:31Z",
+            "open_issues": 43,
             "owner": "hanyazou",
             "repo": "TelloPy",
-            "stars": 716
+            "stars": 716,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -199,12 +299,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "C++ ROS2 driver for DJI Tello drones [requires Foxy and Gazebo Classic -- both EOL]",
+            "homepage": null,
             "id": 159985850,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-08-23T18:05:53Z",
+            "open_issues": 32,
             "owner": "clydemcqueen",
             "repo": "tello_ros",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "ros2",
+              "ryze",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -215,12 +324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 130660029,
             "language": "C#",
+            "license": null,
             "last_commit": "2019-01-07T19:41:36Z",
+            "open_issues": 14,
             "owner": "Kragrathea",
             "repo": "TelloLib",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -231,12 +345,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interacting with the DJI/Ryze Tello using only node.js",
+            "homepage": null,
             "id": 132386558,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-19T04:12:46Z",
+            "open_issues": 4,
             "owner": "jsolderitsch",
             "repo": "tello-nodejs",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "drones",
+              "javascript",
+              "nodejs",
+              "programming",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -247,12 +372,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The tello Go (golang) package is an unofficial, easy-to-use, standalone API for the Ryze Tello® drone.",
+            "homepage": null,
             "id": 134519136,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-11-14T10:43:10Z",
+            "open_issues": 0,
             "owner": "SMerrony",
             "repo": "tello",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "drone",
+              "go",
+              "golang",
+              "package",
+              "ryze-tello-drone",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -263,12 +400,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An easy to use library to support DJI Tello scripting in Python 3",
+            "homepage": null,
             "id": 165624140,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-22T10:03:59Z",
+            "open_issues": 8,
             "owner": "ezrafielding",
             "repo": "easyTello",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "dji",
+              "dji-sdk",
+              "djitello",
+              "drone",
+              "drones",
+              "python",
+              "python-3",
+              "python3",
+              "ryze",
+              "ryze-tello-drone",
+              "tello",
+              "tello-python3",
+              "tellodrone"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -279,12 +435,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ROS2 swarm controller for DJI Tello drones",
+            "homepage": null,
             "id": 152148884,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-11-15T15:47:46Z",
+            "open_issues": 4,
             "owner": "clydemcqueen",
             "repo": "flock2",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "drones",
+              "ros2",
+              "ryze",
+              "swarm",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -295,12 +462,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "a package to be able to control and recieve information from the dji tello",
+            "homepage": null,
             "id": 159499893,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-18T22:41:47Z",
+            "open_issues": 1,
             "owner": "archivealvarolorentedev",
             "repo": "tellojs",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "dji",
+              "drone",
+              "hacktoberfest",
+              "javascript",
+              "nodejs",
+              "sdk",
+              "tello",
+              "tellodrone"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -311,12 +492,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flight Controller for Ryze/DJI Tello Drone in C#",
+            "homepage": null,
             "id": 168779214,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-14T21:27:53Z",
+            "open_issues": 0,
             "owner": "marklauter",
             "repo": "TelloAPI-SDK-2.0",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "csharp",
+              "sdk",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -332,24 +522,54 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ Library for Tello EDU SDK 2.0",
+                "homepage": null,
                 "id": 257678138,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-02T09:53:46Z",
+                "open_issues": 1,
                 "owner": "LucaRitz",
                 "repo": "tello",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "cpp-library",
+                  "ryze-tello-drone",
+                  "tello",
+                  "tellodrone",
+                  "telloedu"
+                ]
               },
               "first_seen": "2026-08-29T00:35:21.869Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A C++ library for the Tello and Tello Edu. Features joystick control, command line control, command queues and SLAM.",
+            "homepage": "https://vss2sn.github.io/tello/",
             "id": 241049721,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-02-19T04:35:11Z",
+            "open_issues": 0,
             "owner": "vss2sn",
             "repo": "tello",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "autonomous-quadcoptor",
+              "command-line",
+              "cpp",
+              "joystick",
+              "noros",
+              "openvslam",
+              "queue-commands",
+              "slam",
+              "slam-algorithms",
+              "tello",
+              "tello-drone",
+              "tellodrone",
+              "telloedu"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -360,12 +580,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fly the Tello drone with Ruby!",
+            "homepage": null,
             "id": 140354130,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2021-12-02T21:33:28Z",
+            "open_issues": 3,
             "owner": "blacktm",
             "repo": "tello",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -376,12 +601,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pythonic DJI Ryze Tello Workbench",
+            "homepage": null,
             "id": 141429906,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2019-09-14T14:19:30Z",
+            "open_issues": 0,
             "owner": "m6c7l",
             "repo": "dji-ryze-tello",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "ffmpeg",
+              "h264",
+              "streaming",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -392,12 +627,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java API for the DJI Tello Drone.",
+            "homepage": null,
             "id": 158616203,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2020-11-16T21:52:33Z",
+            "open_issues": 0,
             "owner": "grofattila",
             "repo": "dji-tello",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "dji",
+              "drone",
+              "java",
+              "neural-network",
+              "tello",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -408,12 +655,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DJI Tello Swift Framework powered by SwiftNIO",
+            "homepage": null,
             "id": 222345101,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-23T06:32:16Z",
+            "open_issues": 0,
             "owner": "liuxuan30",
             "repo": "TelloSwift",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "dji-tello",
+              "ios",
+              "macos",
+              "swift-framework",
+              "swiftnio",
+              "tello",
+              "tello-frameworks"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -424,12 +684,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Normal and reverse engineered (\"advanced\") Python Api for Tello",
+            "homepage": null,
             "id": 229307259,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-03-14T11:30:26Z",
+            "open_issues": 0,
             "owner": "jaqxues",
             "repo": "TelloPython",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "reverse-engineering",
+              "tello",
+              "tello-python3",
+              "tellodrone"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -440,12 +710,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wrapper for DJI / Ryzetech Tello SDK using Kotlin",
+            "homepage": null,
             "id": 141948649,
             "language": "Kotlin",
+            "license": "GPL-2.0",
             "last_commit": "2020-09-19T22:21:36Z",
+            "open_issues": 0,
             "owner": "ivanocj",
             "repo": "ktello",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "drone",
+              "fun",
+              "java",
+              "kotlin",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -456,12 +737,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for interfacing with the Ryze Tello EDU, including swarm and search behaviours.",
+            "homepage": null,
             "id": 226037258,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2019-12-23T06:38:19Z",
+            "open_issues": 0,
             "owner": "targit86",
             "repo": "tello_edu.py",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "python",
+              "python3",
+              "tello",
+              "tello-drone",
+              "tello-python3",
+              "tello-sdk",
+              "tellodrone",
+              "telloedu"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -472,12 +767,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keyboard interface to control a DJI Tello drone with your PC",
+            "homepage": null,
             "id": 211781366,
             "language": "Go",
+            "license": null,
             "last_commit": "2019-10-01T14:18:45Z",
+            "open_issues": 0,
             "owner": "muety",
             "repo": "tello",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "drone",
+              "gobot",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -488,12 +792,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DJI Tello drone controller Swift package",
+            "homepage": null,
             "id": 146211180,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-08-26T19:51:42Z",
+            "open_issues": 0,
             "owner": "tranchis",
             "repo": "TelloSwift",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "dji",
+              "drone",
+              "ios",
+              "macos",
+              "swift",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -504,12 +820,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library to connect to a ryze tello drone (sdk commands, state updates, video stream)",
+            "homepage": null,
             "id": 229838492,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-01-24T10:10:16Z",
+            "open_issues": 0,
             "owner": "FriwiDev",
             "repo": "Tello4J",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "ryze-tello-drone",
+              "tello",
+              "tello-drone",
+              "tello-sdk"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -520,12 +846,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C# API for controlling a Tello Drone with associated collector to write drone telemetry to a SQL database",
+            "homepage": null,
             "id": 231769601,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-07T09:06:05Z",
+            "open_issues": 0,
             "owner": "davewalker5",
             "repo": "TelloCommander",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "api",
+              "csharp",
+              "dontnet",
+              "drone",
+              "drones",
+              "efcore",
+              "library",
+              "netcore",
+              "netstandard",
+              "sql-database",
+              "sqlite",
+              "tello",
+              "tello-drone",
+              "tellodrone"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -536,12 +882,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Processing for DJI Tello drone",
+            "homepage": null,
             "id": 165412074,
             "language": "Processing",
+            "license": "MIT",
             "last_commit": "2020-01-03T16:08:41Z",
+            "open_issues": 0,
             "owner": "f41ardu",
             "repo": "TelloProcessing",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -552,12 +903,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Kotlin wrapper for the Tello SDK.",
+            "homepage": null,
             "id": 178974486,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2020-11-16T21:52:03Z",
+            "open_issues": 0,
             "owner": "JakeJMattson",
             "repo": "TelloKt",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "java",
+              "kotlin",
+              "tello",
+              "tellodrone"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -568,12 +929,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick and easy way to connect to a DJI Tello Drone. Using standard Dart packages, the socket is created intuitively and commands are sent easily.",
+            "homepage": "https://pub.dev/packages/tello",
             "id": 312929669,
             "language": "Dart",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-06-09T20:21:45Z",
+            "open_issues": 2,
             "owner": "mateustoin",
             "repo": "DJI-Tello-Dart-Package",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "control-tello-drone",
+              "dart",
+              "dji-tello",
+              "dji-tello-drone",
+              "drone",
+              "flutter",
+              "package",
+              "package-manager",
+              "tello",
+              "tello-drone"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -584,12 +961,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C++ API to communicate with the DJI Tello Drone",
+            "homepage": null,
             "id": 303597124,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-02-09T01:03:03Z",
+            "open_issues": 1,
             "owner": "shalinirago",
             "repo": "DJITello-Cpp",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cpp",
+              "dji",
+              "socket-programming",
+              "tello",
+              "tello-control",
+              "tello-drone",
+              "udp-protocol"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -600,12 +990,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TelloTs is an elegant TypeScript library that aims to make your life easier while coding your DJI Tello Drone!",
+            "homepage": null,
             "id": 179553021,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-30T17:25:57Z",
+            "open_issues": 7,
             "owner": "siokas",
             "repo": "tellots",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dji",
+              "drone",
+              "tello",
+              "tellodrone",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -616,12 +1017,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C# wrapper around official 2.0 SDK for Tello drone",
+            "homepage": null,
             "id": 336134270,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-02-05T16:55:37Z",
+            "open_issues": 0,
             "owner": "Eloncase",
             "repo": "RyzeTelloSDK",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "csharp",
+              "drone",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         }
@@ -638,12 +1048,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firmware images for hacking, reverse engineering, and teardown of the Ryze / DJI / Intel Movidius Tello",
+            "homepage": null,
             "id": 129145004,
             "language": "Standard ML",
+            "license": null,
             "last_commit": "2018-04-11T18:49:15Z",
+            "open_issues": 0,
             "owner": "MrJabu",
             "repo": "RyzeTelloFirmware",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -654,12 +1069,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Control DJI Tello using Raspberry Pi Zero and Xbox One S Controller",
+            "homepage": null,
             "id": 228844884,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-21T15:44:15Z",
+            "open_issues": 2,
             "owner": "erviveksoni",
             "repo": "raspberrypi-controlled-tello",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "bluetooth-controlled-drone",
+              "dji-tello",
+              "drone",
+              "python",
+              "raspberry-pi",
+              "raspberry-pi-drone",
+              "raspberry-pi-zero-w",
+              "tello",
+              "tello-mount",
+              "tello-xbox",
+              "tellopy",
+              "xbox",
+              "xbox-controller",
+              "xpando"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -670,12 +1105,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source arudino library for controlling tello through ESP32 ",
+            "homepage": null,
             "id": 178807602,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-12-08T13:06:23Z",
+            "open_issues": 5,
             "owner": "akshayvernekar",
             "repo": "telloArduino",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "arudino",
+              "dji",
+              "djitello",
+              "drone",
+              "esp32-arduino",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -686,12 +1133,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "how to hack a dji tello drone controller for use with your computer",
+            "homepage": null,
             "id": 320000431,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-03T12:34:21Z",
+            "open_issues": 0,
             "owner": "Diallomm",
             "repo": "hack_GamesirT1d",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "controler",
+              "dakar",
+              "dji",
+              "drone",
+              "free",
+              "gamesir",
+              "hack",
+              "linux",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -702,12 +1164,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "M5StickC UART-UDP Bridge for controlling Tello",
+            "homepage": null,
             "id": 273366492,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-08-05T09:27:20Z",
+            "open_issues": 0,
             "owner": "EiichiroIto",
             "repo": "m5stickcUartUdpBridge",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "m5stickc",
+              "microbit",
+              "tello",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         }
@@ -724,12 +1196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 186800213,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-13T09:50:41Z",
+            "open_issues": 16,
             "owner": "geaxgx",
             "repo": "tello-openpose",
-            "stars": 305
+            "stars": 305,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -740,12 +1217,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full and whole framework for using Drones in general, and the DJI Tello specifically.",
+            "homepage": null,
             "id": 215849221,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-05-17T14:29:01Z",
+            "open_issues": 15,
             "owner": "tau-adl",
             "repo": "Tello_ROS_ORBSLAM",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "ccmslam",
+              "dji",
+              "orbslam2",
+              "ros",
+              "slam",
+              "slam-algorithms",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -756,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a hand controlled Tello",
+            "homepage": null,
             "id": 143593154,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-11-09T16:32:11Z",
+            "open_issues": 1,
             "owner": "GalBrandwine",
             "repo": "HalloPy",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -772,12 +1267,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous navigation and data collection for Tello using mainly OpenCV's ArUco libraries.",
+            "homepage": null,
             "id": 203336901,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-31T11:56:16Z",
+            "open_issues": 0,
             "owner": "TamasSzepessy",
             "repo": "DJITelloOpticalControl",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "aruco",
+              "dji",
+              "opencv",
+              "opencv-python",
+              "tello",
+              "tello-python3"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -788,12 +1295,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":helicopter: This repository contains a project that combines DJI Tello drone and Deep Learning (Tiny Yolo).",
+            "homepage": null,
             "id": 192692331,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-06T09:38:34Z",
+            "open_issues": 0,
             "owner": "adriacabeza",
             "repo": "Yello",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "computer-vision",
+              "darkflow",
+              "darknet",
+              "deep-learning",
+              "docker",
+              "drone",
+              "object-detection",
+              "python",
+              "tello",
+              "tellodrone",
+              "tinyyolo",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -804,12 +1329,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Control a dji tello drone with body postures processed by tf-openpose using a camera and aws ec2 g2.2xlarge gpu server.",
+            "homepage": null,
             "id": 142994326,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-15T19:40:31Z",
+            "open_issues": 14,
             "owner": "houdinisparks",
             "repo": "pose_recognition_tello",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "action-recognition",
+              "openpose",
+              "pose-recognition",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -820,12 +1355,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tello AI features. Face recognition and tracking,  collision avoidance, reinforcement learning and more.",
+            "homepage": null,
             "id": 328141428,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-05-12T21:27:35Z",
+            "open_issues": 0,
             "owner": "carlo98",
             "repo": "tello-ai-features",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "ai",
+              "camera-calibration",
+              "collision-avoidance",
+              "face-recognition",
+              "reinforcement-learning",
+              "tello",
+              "tracker"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -836,12 +1384,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amazon Alexa Voice Controlled Drone",
+            "homepage": "https://erviveksoni.github.io/alexa-controlled-drone/",
             "id": 231706613,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-01-18T07:07:14Z",
+            "open_issues": 2,
             "owner": "erviveksoni",
             "repo": "alexa-controlled-drone",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "alexa",
+              "alexa-device",
+              "alexa-skill",
+              "aws-lambda",
+              "device-shadow",
+              "dji-tello",
+              "dji-tello-drone",
+              "drone",
+              "lambda",
+              "python",
+              "raspberry-pi",
+              "raspberry-pi-zero",
+              "tello",
+              "voice-commands",
+              "voice-control",
+              "voice-recognition"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -852,12 +1422,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A drone that follows you wherever you go.",
+            "homepage": null,
             "id": 231937149,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-09-03T12:14:53Z",
+            "open_issues": 0,
             "owner": "sushansapaliga",
             "repo": "Eye-In-The-Sky",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "anaconda3",
+              "djitello",
+              "opencv-python",
+              "openpose",
+              "python3",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -868,12 +1450,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚁🔦🎯 Система управления автономного БПЛА «ПроеКТОриЯ 2019»",
+            "homepage": null,
             "id": 223333417,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-03-28T16:51:49Z",
+            "open_issues": 0,
             "owner": "Keleas",
             "repo": "Tello_Laser_Shot",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "computer-vision",
+              "python",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -884,12 +1475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 853047033,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-22T09:40:03Z",
+            "open_issues": 0,
             "owner": "juanmill4",
             "repo": "Indoor-Autonomous-Tello",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         },
@@ -900,12 +1496,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indoor UV light surface cleaning drone. It is intended for offices in order to have a better come back to work.",
+            "homepage": null,
             "id": 291180536,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-05T06:27:05Z",
+            "open_issues": 0,
             "owner": "altaga",
             "repo": "CoviDrone",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "battery",
+              "circuit",
+              "diagram",
+              "lipo-battery",
+              "tello"
+            ]
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
         }
@@ -914,15 +1521,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:35:21.869Z",
+    "last_updated": "2026-08-29T05:01:23.997Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",
+      "homepage": null,
       "id": 340032871,
       "language": null,
+      "license": null,
       "last_commit": "2024-10-23T16:43:21Z",
+      "open_issues": 0,
       "owner": "Matthias84",
       "repo": "awesome-tello",
-      "stars": 81
+      "stars": 81,
+      "topics": [
+        "awesome-list",
+        "cpp",
+        "csharp",
+        "dji",
+        "drones",
+        "golang",
+        "java",
+        "nodejs",
+        "python",
+        "ryze",
+        "tello"
+      ]
     },
     "original_repository_sha": "786c3e9494c999269dc3c5d1f4f10611a8dbc7c3",
     "enhanced_repository": "enhansome/enhansome-tello",
