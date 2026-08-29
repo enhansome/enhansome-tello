@@ -16,7 +16,8 @@
             "owner": "dnomak",
             "repo": "drone-keyboard",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "SMerrony",
             "repo": "telloterm",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "socketbind",
             "repo": "drone-control",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "SMerrony",
             "repo": "tellodesk",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         }
       ],
       "title": "Cockpits"
@@ -82,7 +86,8 @@
             "owner": "johnwalicki",
             "repo": "Node-RED-Tello-Control",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "kebhr",
             "repo": "scratch3-tello",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "johnwalicki",
             "repo": "Node-RED-DroneViewer",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         }
       ],
       "title": "Scripting"
@@ -133,7 +140,8 @@
             "owner": "damiafuentes",
             "repo": "DJITelloPy",
             "stars": 1482
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "dji-sdk",
             "repo": "Tello-Python",
             "stars": 1450
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -168,7 +177,8 @@
                 "owner": "shortstheory",
                 "repo": "TelloPy",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:35:21.869Z"
             }
           ],
           "repo_info": {
@@ -179,7 +189,8 @@
             "owner": "hanyazou",
             "repo": "TelloPy",
             "stars": 716
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -194,7 +205,8 @@
             "owner": "clydemcqueen",
             "repo": "tello_ros",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -209,7 +221,8 @@
             "owner": "Kragrathea",
             "repo": "TelloLib",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -224,7 +237,8 @@
             "owner": "jsolderitsch",
             "repo": "tello-nodejs",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -239,7 +253,8 @@
             "owner": "SMerrony",
             "repo": "tello",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -254,7 +269,8 @@
             "owner": "ezrafielding",
             "repo": "easyTello",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -269,7 +285,8 @@
             "owner": "clydemcqueen",
             "repo": "flock2",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -284,7 +301,8 @@
             "owner": "archivealvarolorentedev",
             "repo": "tellojs",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -299,7 +317,8 @@
             "owner": "marklauter",
             "repo": "TelloAPI-SDK-2.0",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
                 "owner": "LucaRitz",
                 "repo": "tello",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:35:21.869Z"
             }
           ],
           "repo_info": {
@@ -330,7 +350,8 @@
             "owner": "vss2sn",
             "repo": "tello",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -345,7 +366,8 @@
             "owner": "blacktm",
             "repo": "tello",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -360,7 +382,8 @@
             "owner": "m6c7l",
             "repo": "dji-ryze-tello",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -375,7 +398,8 @@
             "owner": "grofattila",
             "repo": "dji-tello",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -390,7 +414,8 @@
             "owner": "liuxuan30",
             "repo": "TelloSwift",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -405,7 +430,8 @@
             "owner": "jaqxues",
             "repo": "TelloPython",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -420,7 +446,8 @@
             "owner": "ivanocj",
             "repo": "ktello",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -435,7 +462,8 @@
             "owner": "targit86",
             "repo": "tello_edu.py",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -450,7 +478,8 @@
             "owner": "muety",
             "repo": "tello",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -465,7 +494,8 @@
             "owner": "tranchis",
             "repo": "TelloSwift",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -480,7 +510,8 @@
             "owner": "FriwiDev",
             "repo": "Tello4J",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -495,7 +526,8 @@
             "owner": "davewalker5",
             "repo": "TelloCommander",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -510,7 +542,8 @@
             "owner": "f41ardu",
             "repo": "TelloProcessing",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -525,7 +558,8 @@
             "owner": "JakeJMattson",
             "repo": "TelloKt",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -540,7 +574,8 @@
             "owner": "mateustoin",
             "repo": "DJI-Tello-Dart-Package",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -555,7 +590,8 @@
             "owner": "shalinirago",
             "repo": "DJITello-Cpp",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -570,7 +606,8 @@
             "owner": "siokas",
             "repo": "tellots",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -585,7 +622,8 @@
             "owner": "Eloncase",
             "repo": "RyzeTelloSDK",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         }
       ],
       "title": "SDK Wrappers"
@@ -606,7 +644,8 @@
             "owner": "MrJabu",
             "repo": "RyzeTelloFirmware",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -621,7 +660,8 @@
             "owner": "erviveksoni",
             "repo": "raspberrypi-controlled-tello",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -636,7 +676,8 @@
             "owner": "akshayvernekar",
             "repo": "telloArduino",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -651,7 +692,8 @@
             "owner": "Diallomm",
             "repo": "hack_GamesirT1d",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -666,7 +708,8 @@
             "owner": "EiichiroIto",
             "repo": "m5stickcUartUdpBridge",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         }
       ],
       "title": "Hardware"
@@ -687,7 +730,8 @@
             "owner": "geaxgx",
             "repo": "tello-openpose",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -702,7 +746,8 @@
             "owner": "tau-adl",
             "repo": "Tello_ROS_ORBSLAM",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -717,7 +762,8 @@
             "owner": "GalBrandwine",
             "repo": "HalloPy",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -732,7 +778,8 @@
             "owner": "TamasSzepessy",
             "repo": "DJITelloOpticalControl",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -747,7 +794,8 @@
             "owner": "adriacabeza",
             "repo": "Yello",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -762,7 +810,8 @@
             "owner": "houdinisparks",
             "repo": "pose_recognition_tello",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -777,7 +826,8 @@
             "owner": "carlo98",
             "repo": "tello-ai-features",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -792,7 +842,8 @@
             "owner": "erviveksoni",
             "repo": "alexa-controlled-drone",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -807,7 +858,8 @@
             "owner": "sushansapaliga",
             "repo": "Eye-In-The-Sky",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -822,7 +874,8 @@
             "owner": "Keleas",
             "repo": "Tello_Laser_Shot",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -837,7 +890,8 @@
             "owner": "juanmill4",
             "repo": "Indoor-Autonomous-Tello",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         },
         {
           "node_type": "item",
@@ -852,14 +906,15 @@
             "owner": "altaga",
             "repo": "CoviDrone",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:35:21.869Z"
         }
       ],
       "title": "Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:59:27.680Z",
+    "last_updated": "2026-08-29T00:35:21.869Z",
     "original_repository_info": {
       "archived": false,
       "id": 340032871,
