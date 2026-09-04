@@ -223,7 +223,7 @@
             "open_issues": 43,
             "owner": "damiafuentes",
             "repo": "DJITelloPy",
-            "stars": 1481,
+            "stars": 1482,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
@@ -244,7 +244,7 @@
             "open_issues": 70,
             "owner": "dji-sdk",
             "repo": "Tello-Python",
-            "stars": 1449,
+            "stars": 1450,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
@@ -287,7 +287,7 @@
             "open_issues": 43,
             "owner": "hanyazou",
             "repo": "TelloPy",
-            "stars": 718,
+            "stars": 719,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:19:56.757Z",
+    "last_updated": "2026-09-04T19:01:08.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",
