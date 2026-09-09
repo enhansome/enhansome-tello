@@ -20,7 +20,7 @@ Alternatives to official Android Tello apps
 Alternatives to official Android Tello Edu app or [Droneblocks](https://www.droneblocks.io/) to design batch or interactive automation for the drone.
 
 * [Node-Red-Tello-Control](https://github.com/johnwalicki/Node-RED-Tello-Control) ⭐ 127 | 🐛 8 | 📅 2021-02-05
-* [Scratch3-tello](https://github.com/kebhr/scratch3-tello) ⭐ 98 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-11
+* [Scratch3-tello](https://github.com/kebhr/scratch3-tello) ⭐ 99 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-11
 * [Node-Red-DroneViewer](https://github.com/johnwalicki/Node-RED-DroneViewer) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2019-12-16
 * [Scratch explained](https://hackaday.com/2018/05/22/scratch-your-itch-to-fly/) with the official extension
 
@@ -115,4 +115,4 @@ Applications which show integration and mashups using the Tello.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
