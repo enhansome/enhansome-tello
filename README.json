@@ -444,7 +444,7 @@
             "open_issues": 4,
             "owner": "clydemcqueen",
             "repo": "flock2",
-            "stars": 72,
+            "stars": 71,
             "topics": [
               "drones",
               "ros2",
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:49:59.756Z",
+    "last_updated": "2026-09-14T20:20:48.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",
