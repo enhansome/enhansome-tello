@@ -283,7 +283,7 @@
             "id": 131959095,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2024-07-23T14:03:31Z",
+            "last_commit": "2026-09-20T10:38:40Z",
             "open_issues": 43,
             "owner": "hanyazou",
             "repo": "TelloPy",
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:38:50.134Z",
+    "last_updated": "2026-09-20T18:53:08.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",
