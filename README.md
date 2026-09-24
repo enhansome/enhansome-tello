@@ -9,7 +9,7 @@ This is a list of Free Software that can be used esp. with this drone. Get close
 Alternatives to official Android Tello apps
 
 * [Drone-keyboard](https://github.com/dnomak/drone-keyboard) ⚠️ Archived - controll & videostream, `#nodejs`
-* [Telloterm](https://github.com/SMerrony/telloterm) ⭐ 46 | 🐛 0 | 🌐 Go | 📅 2023-04-11 - controll & videostram & gamepad (fka. tello-desktop), `#Go`
+* [Telloterm](https://github.com/SMerrony/telloterm) ⭐ 45 | 🐛 0 | 🌐 Go | 📅 2023-04-11 - controll & videostram & gamepad (fka. tello-desktop), `#Go`
 * [Drone-control](https://github.com/socketbind/drone-control/) ⭐ 27 | 🐛 3 | 🌐 Go | 📅 2020-02-15 - `#Go`
 * [Tellodesk…](https://github.com/SMerrony/tellodesk) ⭐ 10 | 🐛 0 | 🌐 Go | 📅 2019-03-13 - controll & videostream & gamepad & map, `#Go`
 * [Tello](https://tellopilots.com/threads/new-app-for-linux.5692/) - Linux GTK App, `#C`
@@ -36,13 +36,13 @@ Undocumented details on the wifi protocoll are listed at [Tello Pilots Wiki - Pr
 There are libraries which implement featuresets in different languages and bindings to other frameworks.
 
 * [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) ⭐ 1,479 | 🐛 43 | 🌐 Python | 📅 2025-01-27 - `#Python` swarm, mission pads, CV2
-* [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,450 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
-* [TelloPy](https://github.com/hanyazou/TelloPy) ⭐ 719 | 🐛 43 | 🌐 Python | 📅 2026-09-22 - `#Python`, unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs
+* [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,451 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
+* [TelloPy](https://github.com/hanyazou/TelloPy) ⭐ 719 | 🐛 43 | 🌐 Python | 📅 2026-09-24 - `#Python`, unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs
   * [Fork](https://github.com/shortstheory/TelloPy/tree/F310/tellopy) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2019-06-30 - Logitech F310 gamepad support
 * [Tello\_ROS](https://github.com/clydemcqueen/tello_ros) ⚠️ Archived `#ROS` (Robot Operrating system)
-* [TelloLib](https://github.com/Kragrathea/TelloLib) ⭐ 140 | 🐛 14 | 🌐 C# | 📅 2019-01-07 - `#C#`, Apps for Android and CLI
+* [TelloLib](https://github.com/Kragrathea/TelloLib) ⭐ 139 | 🐛 14 | 🌐 C# | 📅 2019-01-07 - `#C#`, Apps for Android and CLI
 * [Tello-nodejs](https://github.com/jsolderitsch/tello-nodejs) ⭐ 94 | 🐛 4 | 🌐 JavaScript | 📅 2019-06-19
-* <https://github.com/SMerrony/tello> ⭐ 85 | 🐛 0 | 🌐 Go | 📅 2021-11-14
+* <https://github.com/SMerrony/tello> ⭐ 84 | 🐛 0 | 🌐 Go | 📅 2021-11-14
 * [EasyTello](https://github.com/Virodroid/easyTello) ⚠️ Archived - `#Python`, unmaintained
 * [Flock2](https://github.com/clydemcqueen/flock2) ⚠️ Archived `#ROS` (Robot Operrating system) for swarms
 * [TelloJS](https://github.com/kanekotic/tellojs) ⚠️ Archived
@@ -115,4 +115,4 @@ Applications which show integration and mashups using the Tello.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

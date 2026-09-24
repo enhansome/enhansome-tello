@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "SMerrony",
             "repo": "telloterm",
-            "stars": 46,
+            "stars": 45,
             "topics": [
               "drone",
               "go",
@@ -244,7 +244,7 @@
             "open_issues": 70,
             "owner": "dji-sdk",
             "repo": "Tello-Python",
-            "stars": 1450,
+            "stars": 1451,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
@@ -283,7 +283,7 @@
             "id": 131959095,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T07:38:40Z",
+            "last_commit": "2026-09-24T08:52:10Z",
             "open_issues": 43,
             "owner": "hanyazou",
             "repo": "TelloPy",
@@ -333,7 +333,7 @@
             "open_issues": 14,
             "owner": "Kragrathea",
             "repo": "TelloLib",
-            "stars": 140,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
@@ -381,7 +381,7 @@
             "open_issues": 0,
             "owner": "SMerrony",
             "repo": "tello",
-            "stars": 85,
+            "stars": 84,
             "topics": [
               "drone",
               "go",
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:43:07.742Z",
+    "last_updated": "2026-09-24T20:01:26.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",
