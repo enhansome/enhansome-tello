@@ -1205,7 +1205,7 @@
             "open_issues": 16,
             "owner": "geaxgx",
             "repo": "tello-openpose",
-            "stars": 304,
+            "stars": 305,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:05:41.756Z",
+    "last_updated": "2026-10-02T20:49:04.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",

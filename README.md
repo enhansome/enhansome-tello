@@ -91,7 +91,7 @@ There are libraries which implement featuresets in different languages and bindi
 
 Applications which show integration and mashups using the Tello.
 
-* [Tello-openpose](https://github.com/geaxgx/tello-openpose) ⭐ 304 | 🐛 16 | 🌐 Python | 📅 2021-12-13
+* [Tello-openpose](https://github.com/geaxgx/tello-openpose) ⭐ 305 | 🐛 16 | 🌐 Python | 📅 2021-12-13
 * [Tello ROS ORBSLAM](https://github.com/tau-adl/Tello_ROS_ORBSLAM) ⭐ 195 | 🐛 15 | 🌐 C++ | 📅 2022-05-17 - Global positioning
 * [Hallo](https://github.com/GalBrandwine/HalloPy) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2021-11-09 - Hand gesture controlled
 * [DJITelloOpticalControl](https://github.com/TamasSzepessy/DJITelloOpticalControl) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2021-07-31 - Autonomous flight via markers
@@ -111,8 +111,8 @@ Applications which show integration and mashups using the Tello.
 
 ## Security
 
-* [Drone hacking tool analysis - dronesploit](https://dronesec.com/blogs/articles/drone-hacking-tool-analysis-dronesploit) - Hijacking using [dronesploit-framework](https://github.com/dhondta/dronesploit) ⭐ 2,187 | 🐛 2 | 🌐 Python | 📅 2024-11-23
+* [Drone hacking tool analysis - dronesploit](https://dronesec.com/blogs/articles/drone-hacking-tool-analysis-dronesploit) - Hijacking using [dronesploit-framework](https://github.com/dhondta/dronesploit) ⭐ 2,188 | 🐛 2 | 🌐 Python | 📅 2024-11-23
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
