@@ -61,7 +61,7 @@
         {
           "node_type": "item",
           "title": "Drone-control",
-          "description": null,
+          "description": "socketbind/drone-control",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -115,7 +115,7 @@
         {
           "node_type": "item",
           "title": "Node-Red-Tello-Control",
-          "description": null,
+          "description": "johnwalicki/Node-RED-Tello-Control",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,7 +146,7 @@
         {
           "node_type": "item",
           "title": "Scratch3-tello",
-          "description": null,
+          "description": "kebhr/scratch3-tello",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -173,7 +173,7 @@
         {
           "node_type": "item",
           "title": "Node-Red-DroneViewer",
-          "description": null,
+          "description": "johnwalicki/Node-RED-DroneViewer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -283,7 +283,7 @@
             "id": 131959095,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T07:12:44Z",
+            "last_commit": "2026-10-03T03:49:05Z",
             "open_issues": 43,
             "owner": "hanyazou",
             "repo": "TelloPy",
@@ -341,7 +341,7 @@
         {
           "node_type": "item",
           "title": "Tello-nodejs",
-          "description": null,
+          "description": "jsolderitsch/tello-nodejs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -368,7 +368,7 @@
         {
           "node_type": "item",
           "title": "SMerrony/tello",
-          "description": null,
+          "description": "SMerrony/tello",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -458,7 +458,7 @@
         {
           "node_type": "item",
           "title": "TelloJS",
-          "description": null,
+          "description": "archivealvarolorentedev/tellojs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -488,7 +488,7 @@
         {
           "node_type": "item",
           "title": "TelloAPI-SDK-2.0",
-          "description": null,
+          "description": "marklauter/TelloAPI-SDK-2.0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -513,12 +513,12 @@
         {
           "node_type": "item",
           "title": "Tello",
-          "description": null,
+          "description": "vss2sn/tello",
           "children": [
             {
               "node_type": "item",
               "title": "Tello",
-              "description": null,
+              "description": "LucaRitz/tello",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -576,7 +576,7 @@
         {
           "node_type": "item",
           "title": "Tello Ruby Gem",
-          "description": null,
+          "description": "blacktm/tello",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -597,7 +597,7 @@
         {
           "node_type": "item",
           "title": "DJI-tello",
-          "description": null,
+          "description": "grofattila/dji-tello",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -625,7 +625,7 @@
         {
           "node_type": "item",
           "title": "dji-ryze-tello",
-          "description": null,
+          "description": "m6c7l/dji-ryze-tello",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -651,7 +651,7 @@
         {
           "node_type": "item",
           "title": "TelloSwift",
-          "description": null,
+          "description": "liuxuan30/TelloSwift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -706,7 +706,7 @@
         {
           "node_type": "item",
           "title": "KTello",
-          "description": null,
+          "description": "ivanocj/ktello",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -788,7 +788,7 @@
         {
           "node_type": "item",
           "title": "TelloSwift",
-          "description": null,
+          "description": "tranchis/TelloSwift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -816,7 +816,7 @@
         {
           "node_type": "item",
           "title": "Tello4J",
-          "description": null,
+          "description": "FriwiDev/Tello4J",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -842,7 +842,7 @@
         {
           "node_type": "item",
           "title": "TelloCommander",
-          "description": null,
+          "description": "davewalker5/TelloCommander",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -899,7 +899,7 @@
         {
           "node_type": "item",
           "title": "TelloKt",
-          "description": null,
+          "description": "JakeJMattson/TelloKt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -925,7 +925,7 @@
         {
           "node_type": "item",
           "title": "DJI-Tello-Dart-Package",
-          "description": null,
+          "description": "mateustoin/DJI-Tello-Dart-Package",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -957,7 +957,7 @@
         {
           "node_type": "item",
           "title": "DJITello-Cpp",
-          "description": null,
+          "description": "shalinirago/DJITello-Cpp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -986,7 +986,7 @@
         {
           "node_type": "item",
           "title": "TelloTS",
-          "description": null,
+          "description": "siokas/tellots",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1013,7 +1013,7 @@
         {
           "node_type": "item",
           "title": "RyzeTelloSDK",
-          "description": null,
+          "description": "Eloncase/RyzeTelloSDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1192,7 +1192,7 @@
         {
           "node_type": "item",
           "title": "Tello-openpose",
-          "description": null,
+          "description": "geaxgx/tello-openpose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:49:04.677Z",
+    "last_updated": "2026-10-03T05:09:45.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",
