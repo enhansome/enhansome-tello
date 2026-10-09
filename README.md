@@ -20,7 +20,7 @@ Alternatives to official Android Tello apps
 Alternatives to official Android Tello Edu app or [Droneblocks](https://www.droneblocks.io/) to design batch or interactive automation for the drone.
 
 * [Node-Red-Tello-Control](https://github.com/johnwalicki/Node-RED-Tello-Control) ⭐ 127 | 🐛 8 | 📅 2021-02-05
-* [Scratch3-tello](https://github.com/kebhr/scratch3-tello) ⭐ 99 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-11
+* [Scratch3-tello](https://github.com/kebhr/scratch3-tello) ⭐ 100 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-11
 * [Node-Red-DroneViewer](https://github.com/johnwalicki/Node-RED-DroneViewer) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2019-12-16
 * [Scratch explained](https://hackaday.com/2018/05/22/scratch-your-itch-to-fly/) with the official extension
 
@@ -35,8 +35,8 @@ Undocumented details on the wifi protocoll are listed at [Tello Pilots Wiki - Pr
 
 There are libraries which implement featuresets in different languages and bindings to other frameworks.
 
-* [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) ⭐ 1,482 | 🐛 43 | 🌐 Python | 📅 2025-01-27 - `#Python` swarm, mission pads, CV2
-* [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,450 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
+* [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) ⭐ 1,481 | 🐛 43 | 🌐 Python | 📅 2025-01-27 - `#Python` swarm, mission pads, CV2
+* [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,449 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
 * [TelloPy](https://github.com/hanyazou/TelloPy) ⭐ 720 | 🐛 38 | 🌐 Python | 📅 2026-10-03 - `#Python`, unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs
   * [Fork](https://github.com/shortstheory/TelloPy/tree/F310/tellopy) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2019-06-30 - Logitech F310 gamepad support
 * [Tello\_ROS](https://github.com/clydemcqueen/tello_ros) ⚠️ Archived `#ROS` (Robot Operrating system)
@@ -115,4 +115,4 @@ Applications which show integration and mashups using the Tello.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
