@@ -223,7 +223,7 @@
             "open_issues": 43,
             "owner": "damiafuentes",
             "repo": "DJITelloPy",
-            "stars": 1481,
+            "stars": 1482,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
@@ -497,7 +497,7 @@
             "id": 168779214,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-07-14T21:27:53Z",
+            "last_commit": "2026-10-10T19:32:29Z",
             "open_issues": 0,
             "owner": "marklauter",
             "repo": "TelloAPI-SDK-2.0",
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:00:40.927Z",
+    "last_updated": "2026-10-10T20:10:10.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",
