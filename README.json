@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:22:48.668Z",
+    "last_updated": "2026-10-12T23:04:14.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",
@@ -1533,7 +1533,7 @@
       "open_issues": 0,
       "owner": "Matthias84",
       "repo": "awesome-tello",
-      "stars": 82,
+      "stars": 81,
       "topics": [
         "awesome-list",
         "cpp",
