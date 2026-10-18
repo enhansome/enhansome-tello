@@ -244,7 +244,7 @@
             "open_issues": 70,
             "owner": "dji-sdk",
             "repo": "Tello-Python",
-            "stars": 1451,
+            "stars": 1452,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:34:26.522Z",
+    "last_updated": "2026-10-18T18:42:27.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",
