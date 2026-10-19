@@ -75,7 +75,7 @@ There are libraries which implement featuresets in different languages and bindi
 * [RyzeTelloFirmware](https://github.com/MrJabu/RyzeTelloFirmware) ⭐ 81 | 🐛 0 | 🌐 Standard ML | 📅 2018-04-11 - hardware details and firmware binaries
 * [raspberrypi-controlled-tello](https://github.com/erviveksoni/raspberrypi-controlled-tello) ⭐ 56 | 🐛 2 | 🌐 Python | 📅 2019-12-21Control via RPI
 * [telloArduino](https://github.com/akshayvernekar/telloArduino) ⭐ 36 | 🐛 5 | 🌐 C++ | 📅 2020-12-08 - Control via ESP32
-* [hack\_GamesirT1d](https://github.com/Diallomm/hack_GamesirT1d) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-05-03 Read original drone gamepad controller
+* [hack\_GamesirT1d](https://github.com/Diallomm/hack_GamesirT1d) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2021-05-03 Read original drone gamepad controller
 * [m5stickcUartUdpBridge](https://github.com/EiichiroIto/m5stickcUartUdpBridge) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2020-08-05 Control via micro:bit with radio-UART and `#micropython`
 * [m5-block-dji-tello-drone-control](https://www.hackster.io/gperrella/m5-block-dji-tello-drone-control-c2646f) ESP32 M5Stack control with `#micropython`
 * [Tello Pilots Wiki - Protocol](https://tellopilots.com/wiki/protocol/) Reverse engineered (extended) control protocol with all features of the Android App
@@ -111,8 +111,8 @@ Applications which show integration and mashups using the Tello.
 
 ## Security
 
-* [Drone hacking tool analysis - dronesploit](https://dronesec.com/blogs/articles/drone-hacking-tool-analysis-dronesploit) - Hijacking using [dronesploit-framework](https://github.com/dhondta/dronesploit) ⭐ 2,196 | 🐛 2 | 🌐 Python | 📅 2024-11-23
+* [Drone hacking tool analysis - dronesploit](https://dronesec.com/blogs/articles/drone-hacking-tool-analysis-dronesploit) - Hijacking using [dronesploit-framework](https://github.com/dhondta/dronesploit) ⭐ 2,197 | 🐛 2 | 🌐 Python | 📅 2024-11-23
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
