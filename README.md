@@ -20,7 +20,7 @@ Alternatives to official Android Tello apps
 Alternatives to official Android Tello Edu app or [Droneblocks](https://www.droneblocks.io/) to design batch or interactive automation for the drone.
 
 * [Node-Red-Tello-Control](https://github.com/johnwalicki/Node-RED-Tello-Control) ⭐ 127 | 🐛 8 | 📅 2021-02-05
-* [Scratch3-tello](https://github.com/kebhr/scratch3-tello) ⭐ 100 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-11
+* [Scratch3-tello](https://github.com/kebhr/scratch3-tello) ⭐ 101 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-11
 * [Node-Red-DroneViewer](https://github.com/johnwalicki/Node-RED-DroneViewer) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2019-12-16
 * [Scratch explained](https://hackaday.com/2018/05/22/scratch-your-itch-to-fly/) with the official extension
 
@@ -36,7 +36,7 @@ Undocumented details on the wifi protocoll are listed at [Tello Pilots Wiki - Pr
 There are libraries which implement featuresets in different languages and bindings to other frameworks.
 
 * [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) ⭐ 1,487 | 🐛 43 | 🌐 Python | 📅 2025-01-27 - `#Python` swarm, mission pads, CV2
-* [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,451 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
+* [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,452 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
 * [TelloPy](https://github.com/hanyazou/TelloPy) ⭐ 723 | 🐛 39 | 🌐 Python | 📅 2026-10-03 - `#Python`, unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs
   * [Fork](https://github.com/shortstheory/TelloPy/tree/F310/tellopy) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2019-06-30 - Logitech F310 gamepad support
 * [Tello\_ROS](https://github.com/clydemcqueen/tello_ros) ⚠️ Archived `#ROS` (Robot Operrating system)
@@ -48,7 +48,7 @@ There are libraries which implement featuresets in different languages and bindi
 * [TelloJS](https://github.com/kanekotic/tellojs) ⚠️ Archived
 * [TelloAPI-SDK-2.0](https://github.com/marklauter/TelloAPI-SDK-2.0) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2026-10-10 - `#C#`
 * [Tello](https://github.com/vss2sn/tello) ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2021-02-19 - `#C++`
-  * [Tello](https://github.com/LucaRitz/tello) ⭐ 2 | 🐛 1 | 🌐 C++ | 📅 2020-10-02 - `#C++`
+  * [Tello](https://github.com/LucaRitz/tello) ⭐ 3 | 🐛 1 | 🌐 C++ | 📅 2020-10-02 - `#C++`
 * [Tello Ruby Gem](https://github.com/blacktm/tello) ⭐ 27 | 🐛 3 | 🌐 Ruby | 📅 2021-12-02 `#Ruby`
 * [DJI-tello](https://github.com/grofattila/dji-tello) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2020-11-16 - `#Java`
 * [dji-ryze-tello](https://github.com/m6c7l/dji-ryze-tello) ⭐ 21 | 🐛 0 | 📅 2019-09-14 - `#Python`
@@ -115,4 +115,4 @@ Applications which show integration and mashups using the Tello.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

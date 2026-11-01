@@ -159,7 +159,7 @@
             "open_issues": 5,
             "owner": "kebhr",
             "repo": "scratch3-tello",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "computer-science-education",
               "scratch",
@@ -244,7 +244,7 @@
             "open_issues": 70,
             "owner": "dji-sdk",
             "repo": "Tello-Python",
-            "stars": 1451,
+            "stars": 1452,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:21.869Z"
@@ -531,7 +531,7 @@
                 "open_issues": 1,
                 "owner": "LucaRitz",
                 "repo": "tello",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "cpp-library",
                   "ryze-tello-drone",
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:05:22.835Z",
+    "last_updated": "2026-11-01T20:36:23.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",
