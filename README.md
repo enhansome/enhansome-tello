@@ -35,9 +35,9 @@ Undocumented details on the wifi protocoll are listed at [Tello Pilots Wiki - Pr
 
 There are libraries which implement featuresets in different languages and bindings to other frameworks.
 
-* [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) ⭐ 1,487 | 🐛 43 | 🌐 Python | 📅 2025-01-27 - `#Python` swarm, mission pads, CV2
-* [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,452 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
-* [TelloPy](https://github.com/hanyazou/TelloPy) ⭐ 723 | 🐛 39 | 🌐 Python | 📅 2026-10-03 - `#Python`, unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs
+* [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) ⭐ 1,493 | 🐛 43 | 🌐 Python | 📅 2025-01-27 - `#Python` swarm, mission pads, CV2
+* [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,453 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
+* [TelloPy](https://github.com/hanyazou/TelloPy) ⭐ 725 | 🐛 39 | 🌐 Python | 📅 2026-10-03 - `#Python`, unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs
   * [Fork](https://github.com/shortstheory/TelloPy/tree/F310/tellopy) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2019-06-30 - Logitech F310 gamepad support
 * [Tello\_ROS](https://github.com/clydemcqueen/tello_ros) ⚠️ Archived `#ROS` (Robot Operrating system)
 * [TelloLib](https://github.com/Kragrathea/TelloLib) ⭐ 139 | 🐛 14 | 🌐 C# | 📅 2019-01-07 - `#C#`, Apps for Android and CLI
@@ -75,7 +75,7 @@ There are libraries which implement featuresets in different languages and bindi
 * [RyzeTelloFirmware](https://github.com/MrJabu/RyzeTelloFirmware) ⭐ 81 | 🐛 0 | 🌐 Standard ML | 📅 2018-04-11 - hardware details and firmware binaries
 * [raspberrypi-controlled-tello](https://github.com/erviveksoni/raspberrypi-controlled-tello) ⭐ 56 | 🐛 2 | 🌐 Python | 📅 2019-12-21Control via RPI
 * [telloArduino](https://github.com/akshayvernekar/telloArduino) ⭐ 36 | 🐛 5 | 🌐 C++ | 📅 2020-12-08 - Control via ESP32
-* [hack\_GamesirT1d](https://github.com/Diallomm/hack_GamesirT1d) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2021-05-03 Read original drone gamepad controller
+* [hack\_GamesirT1d](https://github.com/Diallomm/hack_GamesirT1d) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-05-03 Read original drone gamepad controller
 * [m5stickcUartUdpBridge](https://github.com/EiichiroIto/m5stickcUartUdpBridge) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2020-08-05 Control via micro:bit with radio-UART and `#micropython`
 * [m5-block-dji-tello-drone-control](https://www.hackster.io/gperrella/m5-block-dji-tello-drone-control-c2646f) ESP32 M5Stack control with `#micropython`
 * [Tello Pilots Wiki - Protocol](https://tellopilots.com/wiki/protocol/) Reverse engineered (extended) control protocol with all features of the Android App
@@ -115,4 +115,4 @@ Applications which show integration and mashups using the Tello.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
