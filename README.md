@@ -35,7 +35,7 @@ Undocumented details on the wifi protocoll are listed at [Tello Pilots Wiki - Pr
 
 There are libraries which implement featuresets in different languages and bindings to other frameworks.
 
-* [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) ⭐ 1,493 | 🐛 43 | 🌐 Python | 📅 2025-01-27 - `#Python` swarm, mission pads, CV2
+* [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) ⭐ 1,494 | 🐛 43 | 🌐 Python | 📅 2025-01-27 - `#Python` swarm, mission pads, CV2
 * [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,454 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
 * [TelloPy](https://github.com/hanyazou/TelloPy) ⭐ 725 | 🐛 39 | 🌐 Python | 📅 2026-10-03 - `#Python`, unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs
   * [Fork](https://github.com/shortstheory/TelloPy/tree/F310/tellopy) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2019-06-30 - Logitech F310 gamepad support
@@ -115,4 +115,4 @@ Applications which show integration and mashups using the Tello.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
