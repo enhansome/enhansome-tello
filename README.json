@@ -1276,7 +1276,7 @@
             "open_issues": 0,
             "owner": "TamasSzepessy",
             "repo": "DJITelloOpticalControl",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "aruco",
               "dji",
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:06:46.325Z",
+    "last_updated": "2026-11-06T21:36:56.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Free Software to interact with Ryzen / DJI Tello drones",

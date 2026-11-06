@@ -94,7 +94,7 @@ Applications which show integration and mashups using the Tello.
 * [Tello-openpose](https://github.com/geaxgx/tello-openpose) ⭐ 306 | 🐛 16 | 🌐 Python | 📅 2021-12-13
 * [Tello ROS ORBSLAM](https://github.com/tau-adl/Tello_ROS_ORBSLAM) ⭐ 195 | 🐛 15 | 🌐 C++ | 📅 2022-05-17 - Global positioning
 * [Hallo](https://github.com/GalBrandwine/HalloPy) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2021-11-09 - Hand gesture controlled
-* [DJITelloOpticalControl](https://github.com/TamasSzepessy/DJITelloOpticalControl) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2021-07-31 - Autonomous flight via markers
+* [DJITelloOpticalControl](https://github.com/TamasSzepessy/DJITelloOpticalControl) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2021-07-31 - Autonomous flight via markers
 * [Yello](https://github.com/adriacabeza/Yello) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2020-10-06 - CV and ML using offboard Yolo v3
 * [Pose Recognition Tello](https://github.com/houdinisparks/pose_recognition_tello) ⭐ 16 | 🐛 14 | 🌐 Python | 📅 2023-02-15 - Control via human body poses
 * [Tello AI features](https://github.com/carlo98/tello-ai-features) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-05-12 - Face and obstacles detection
@@ -115,4 +115,4 @@ Applications which show integration and mashups using the Tello.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
