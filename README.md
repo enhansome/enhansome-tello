@@ -35,9 +35,9 @@ Undocumented details on the wifi protocoll are listed at [Tello Pilots Wiki - Pr
 
 There are libraries which implement featuresets in different languages and bindings to other frameworks.
 
-* [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) ⭐ 1,498 | 🐛 43 | 🌐 Python | 📅 2025-01-27 - `#Python` swarm, mission pads, CV2
-* [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,454 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
-* [TelloPy](https://github.com/hanyazou/TelloPy) ⭐ 726 | 🐛 39 | 🌐 Python | 📅 2026-10-03 - `#Python`, unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs
+* [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) ⭐ 1,495 | 🐛 43 | 🌐 Python | 📅 2025-01-27 - `#Python` swarm, mission pads, CV2
+* [Tello-Python](https://github.com/dji-sdk/Tello-Python) ⭐ 1,452 | 🐛 70 | 🌐 Python | 📅 2023-12-29 Official SDK, `#Python2`
+* [TelloPy](https://github.com/hanyazou/TelloPy) ⭐ 721 | 🐛 39 | 🌐 Python | 📅 2026-10-03 - `#Python`, unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs
   * [Fork](https://github.com/shortstheory/TelloPy/tree/F310/tellopy) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2019-06-30 - Logitech F310 gamepad support
 * [Tello\_ROS](https://github.com/clydemcqueen/tello_ros) ⚠️ Archived `#ROS` (Robot Operrating system)
 * [TelloLib](https://github.com/Kragrathea/TelloLib) ⭐ 139 | 🐛 14 | 🌐 C# | 📅 2019-01-07 - `#C#`, Apps for Android and CLI
@@ -53,7 +53,7 @@ There are libraries which implement featuresets in different languages and bindi
 * [DJI-tello](https://github.com/grofattila/dji-tello) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2020-11-16 - `#Java`
 * [dji-ryze-tello](https://github.com/m6c7l/dji-ryze-tello) ⭐ 21 | 🐛 0 | 📅 2019-09-14 - `#Python`
 * [TelloSwift](https://github.com/liuxuan30/TelloSwift) ⭐ 20 | 🐛 0 | 🌐 Swift | 📅 2026-06-23 - `#Swift`
-* [TelloPython](https://github.com/jaqxues/TelloPython) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2021-03-14 - `#Python` flip, reverse engenierd
+* [TelloPython](https://github.com/jaqxues/TelloPython) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2021-03-14 - `#Python` flip, reverse engenierd
 * [KTello](https://github.com/ivanocj/ktello) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2020-09-19 - `#Kotlin`
 * [tello\_edu.py](https://github.com/tariq86/tello_edu.py) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2019-12-23 - `#Python` swarms
 * [Tello](https://github.com/muety/tello) ⭐ 11 | 🐛 0 | 🌐 Go | 📅 2019-10-01 - `#Go` (Gobot framework)
@@ -91,11 +91,11 @@ There are libraries which implement featuresets in different languages and bindi
 
 Applications which show integration and mashups using the Tello.
 
-* [Tello-openpose](https://github.com/geaxgx/tello-openpose) ⭐ 306 | 🐛 16 | 🌐 Python | 📅 2021-12-13
+* [Tello-openpose](https://github.com/geaxgx/tello-openpose) ⭐ 305 | 🐛 16 | 🌐 Python | 📅 2021-12-13
 * [Tello ROS ORBSLAM](https://github.com/tau-adl/Tello_ROS_ORBSLAM) ⭐ 195 | 🐛 15 | 🌐 C++ | 📅 2022-05-17 - Global positioning
 * [Hallo](https://github.com/GalBrandwine/HalloPy) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2021-11-09 - Hand gesture controlled
 * [DJITelloOpticalControl](https://github.com/TamasSzepessy/DJITelloOpticalControl) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2021-07-31 - Autonomous flight via markers
-* [Yello](https://github.com/adriacabeza/Yello) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2020-10-06 - CV and ML using offboard Yolo v3
+* [Yello](https://github.com/adriacabeza/Yello) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2020-10-06 - CV and ML using offboard Yolo v3
 * [Pose Recognition Tello](https://github.com/houdinisparks/pose_recognition_tello) ⭐ 16 | 🐛 14 | 🌐 Python | 📅 2023-02-15 - Control via human body poses
 * [Tello AI features](https://github.com/carlo98/tello-ai-features) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2023-05-12 - Face and obstacles detection
 * [Alexa controlled drone](https://github.com/erviveksoni/alexa-controlled-drone) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2020-01-18 - Control via Alexa using a RPI gateway
@@ -111,8 +111,8 @@ Applications which show integration and mashups using the Tello.
 
 ## Security
 
-* [Drone hacking tool analysis - dronesploit](https://dronesec.com/blogs/articles/drone-hacking-tool-analysis-dronesploit) - Hijacking using [dronesploit-framework](https://github.com/dhondta/dronesploit) ⭐ 2,209 | 🐛 2 | 🌐 Python | 📅 2024-11-23
+* [Drone hacking tool analysis - dronesploit](https://dronesec.com/blogs/articles/drone-hacking-tool-analysis-dronesploit) - Hijacking using [dronesploit-framework](https://github.com/dhondta/dronesploit) ⭐ 2,208 | 🐛 2 | 🌐 Python | 📅 2024-11-23
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
