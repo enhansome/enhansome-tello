@@ -49,7 +49,7 @@ There are libraries which implement featuresets in different languages and bindi
 * [TelloAPI-SDK-2.0](https://github.com/marklauter/TelloAPI-SDK-2.0) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2026-10-10 - `#C#`
 * [Tello](https://github.com/vss2sn/tello) ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2021-02-19 - `#C++`
   * [Tello](https://github.com/LucaRitz/tello) ⭐ 3 | 🐛 1 | 🌐 C++ | 📅 2020-10-02 - `#C++`
-* [Tello Ruby Gem](https://github.com/blacktm/tello) ⭐ 27 | 🐛 3 | 🌐 Ruby | 📅 2021-12-02 `#Ruby`
+* [Tello Ruby Gem](https://github.com/blacktm/tello) ⭐ 26 | 🐛 3 | 🌐 Ruby | 📅 2021-12-02 `#Ruby`
 * [DJI-tello](https://github.com/grofattila/dji-tello) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2020-11-16 - `#Java`
 * [dji-ryze-tello](https://github.com/m6c7l/dji-ryze-tello) ⭐ 21 | 🐛 0 | 📅 2019-09-14 - `#Python`
 * [TelloSwift](https://github.com/liuxuan30/TelloSwift) ⭐ 20 | 🐛 0 | 🌐 Swift | 📅 2026-06-23 - `#Swift`
@@ -115,4 +115,4 @@ Applications which show integration and mashups using the Tello.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
